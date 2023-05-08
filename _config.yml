@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Coding Interview Questions
+longtitle:        Coding Interview Questions
+author:           Bhoomeendra Singh Sisodiy 
+email:            sisodiya.bhoomendra@research.iiit.ac.in
 description: >
-  Build Jekyll site with the GitBook style.
+  This repo contains the solutions of coding interview questions from various sources.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://bhoomeendra.github.io'
+baseurl:          '/code'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
