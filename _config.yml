@@ -60,6 +60,8 @@ destination:      ./_site
 incremental:      false
 regenerate:       true
 
+enable_darkmode:  true 
+
 plugins:
   - jekyll-feed
   - jekyll-readme-index
